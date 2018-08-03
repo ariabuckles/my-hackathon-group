@@ -8,5 +8,6 @@ require('express');
 let app = express();
 
 app.get('/', function() { });
+app.post('/hi', function() { });
 
 
