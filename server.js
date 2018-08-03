@@ -7,6 +7,6 @@ require('express');
 
 let app = express();
 
-
+app.get('/', function() { });
 
 
