@@ -7,6 +7,5 @@ require('express');
 
 let app = express();
 
-
-
+let models = require('./models');
 
